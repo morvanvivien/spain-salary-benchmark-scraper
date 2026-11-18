@@ -1,0 +1,222 @@
+[
+  {
+    "role": "comercial",
+    "province": "España",
+    "periodDays": 30,
+    "postingsAnalyzed": 150,
+    "postingsWithSalary": 22,
+    "postingsSalaryIgnored": 3,
+    "salaryMin": 16500,
+    "salaryP25": 25125,
+    "salaryMedian": 27750,
+    "salaryP75": 31875,
+    "salaryMax": 47500,
+    "salaryAvg": 28682,
+    "currency": "EUR",
+    "salaryPeriod": "year",
+    "contractShares": {
+      "permanent": 0.37,
+      "freelance": 0.33,
+      "fixed-term": 0.19,
+      "unspecified": 0.09,
+      "permanent-seasonal": 0.02,
+      "training": 0.01
+    },
+    "experienceShares": {
+      "1-2 years": 0.45,
+      "none": 0.43,
+      "3-4 years": 0.1,
+      "5+ years": 0.01
+    },
+    "remoteShare": 0.03,
+    "topCompanies": [
+      "PREVENTIVA COMPAÑÍA DE SEGUROS Y REASEGUROS",
+      "ANANDA GESTION ETT",
+      "IMAN TEMPORING ETT, S.L.",
+      "GRUPO CRIT",
+      "HOSPITALITY CONNECTION BARCELONA SL"
+    ],
+    "sampleUrls": [
+      "https://www.infoempleo.com/ofertasdetrabajo/comercial/plasencia/3146878/",
+      "https://www.infoempleo.com/ofertasdetrabajo/comercial-de-eventos/valencia/3209489/",
+      "https://www.infoempleo.com/ofertasdetrabajo/comercial-junior/madrid/3207566/",
+      "https://www.infoempleo.com/ofertasdetrabajo/comercial-inmobiliario/leganes/3197496/",
+      "https://www.infoempleo.com/ofertasdetrabajo/comercial-palets/esquivias/3137304/"
+    ],
+    "computedAt": "2026-11-18T04:15:15.577Z"
+  },
+  {
+    "role": "contable",
+    "province": "España",
+    "periodDays": 30,
+    "postingsAnalyzed": 110,
+    "postingsWithSalary": 40,
+    "postingsSalaryIgnored": 2,
+    "salaryMin": 10500,
+    "salaryP25": 21000,
+    "salaryMedian": 28750,
+    "salaryP75": 31500,
+    "salaryMax": 40000,
+    "salaryAvg": 27138,
+    "currency": "EUR",
+    "salaryPeriod": "year",
+    "contractShares": {
+      "fixed-term": 0.57,
+      "permanent": 0.31,
+      "unspecified": 0.08,
+      "permanent-seasonal": 0.04
+    },
+    "experienceShares": {
+      "1-2 years": 0.48,
+      "none": 0.27,
+      "3-4 years": 0.19,
+      "5+ years": 0.05
+    },
+    "remoteShare": 0.02,
+    "topCompanies": [
+      "ANANDA GESTION ETT",
+      "MICHAEL PAGE",
+      "IMAN TEMPORING ETT, S.L.",
+      "EULEN Flexiplán",
+      "GRUPO CRIT"
+    ],
+    "sampleUrls": [
+      "https://www.infoempleo.com/ofertasdetrabajo/contable/las-palmas-de-gran-canaria/3206733/",
+      "https://www.infoempleo.com/ofertasdetrabajo/contable/pontevedra/3200953/",
+      "https://www.infoempleo.com/ofertasdetrabajo/contable/madrid/3198431/",
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativa-contable-financiera-hm/getafe/3193942/",
+      "https://www.infoempleo.com/ofertasdetrabajo/contable-tesoreria/malaga/3209291/"
+    ],
+    "computedAt": "2026-11-18T04:15:15.577Z"
+  },
+  {
+    "role": "contable",
+    "province": "Madrid",
+    "periodDays": 30,
+    "postingsAnalyzed": 24,
+    "postingsWithSalary": 16,
+    "postingsSalaryIgnored": 0,
+    "salaryMin": 17500,
+    "salaryP25": 20750,
+    "salaryMedian": 25500,
+    "salaryP75": 29625,
+    "salaryMax": 36500,
+    "salaryAvg": 25656,
+    "currency": "EUR",
+    "salaryPeriod": "year",
+    "contractShares": {
+      "fixed-term": 0.5,
+      "permanent": 0.42,
+      "permanent-seasonal": 0.04,
+      "unspecified": 0.04
+    },
+    "experienceShares": {
+      "1-2 years": 0.38,
+      "3-4 years": 0.29,
+      "none": 0.25,
+      "5+ years": 0.08
+    },
+    "remoteShare": 0,
+    "topCompanies": [
+      "EULEN Flexiplán",
+      "MICHAEL PAGE",
+      "ANANDA GESTION ETT",
+      "ETT Open To Work",
+      "IMAN TEMPORING ETT, S.L."
+    ],
+    "sampleUrls": [
+      "https://www.infoempleo.com/ofertasdetrabajo/contable/madrid/3198431/",
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativa-contable-financiera-hm/getafe/3193942/",
+      "https://www.infoempleo.com/ofertasdetrabajo/contable-junior/madrid/3190643/",
+      "https://www.infoempleo.com/ofertasdetrabajo/tecnico-contable-de-clientes/madrid/3209660/",
+      "https://www.infoempleo.com/ofertasdetrabajo/contable-general/alcobendas/3209273/"
+    ],
+    "computedAt": "2026-11-18T04:15:15.577Z"
+  },
+  {
+    "role": "ingeniero",
+    "province": "Barcelona",
+    "periodDays": 30,
+    "postingsAnalyzed": 12,
+    "postingsWithSalary": 3,
+    "postingsSalaryIgnored": 0,
+    "salaryMin": 27500,
+    "salaryP25": 27750,
+    "salaryMedian": 28000,
+    "salaryP75": 31500,
+    "salaryMax": 35000,
+    "salaryAvg": 30167,
+    "currency": "EUR",
+    "salaryPeriod": "year",
+    "contractShares": {
+      "permanent": 0.5,
+      "fixed-term": 0.33,
+      "unspecified": 0.17
+    },
+    "experienceShares": {
+      "1-2 years": 0.42,
+      "3-4 years": 0.25,
+      "none": 0.25,
+      "5+ years": 0.08
+    },
+    "remoteShare": 0,
+    "topCompanies": [
+      "IMAN TEMPORING ETT, S.L.",
+      "ANANDA GESTION ETT",
+      "MANPOWER ESPAÑA",
+      "DEZELS",
+      "GRUPO CRIT"
+    ],
+    "sampleUrls": [
+      "https://www.infoempleo.com/ofertasdetrabajo/ingeniero-opex/abrera/3205967/",
+      "https://www.infoempleo.com/ofertasdetrabajo/ingenieroa-tecnicoa-industrial-electricidad-y-climatizacion/martorell/3150110/",
+      "https://www.infoempleo.com/ofertasdetrabajo/ingenieroa-tecnicoa-industrial-h-m-conocimiento-electricidad-y-climatizacion/martorell/3163559/",
+      "https://www.infoempleo.com/ofertasdetrabajo/ingenieroa-mecanicoa/terrassa/3206883/",
+      "https://www.infoempleo.com/ofertasdetrabajo/ingenieroa-de-aplicaciones/3160417/"
+    ],
+    "computedAt": "2026-11-18T04:15:15.577Z"
+  },
+  {
+    "role": "administrativo",
+    "province": "Madrid",
+    "periodDays": 30,
+    "postingsAnalyzed": 16,
+    "postingsWithSalary": 6,
+    "postingsSalaryIgnored": 0,
+    "salaryMin": 19500,
+    "salaryP25": 20000,
+    "salaryMedian": 20750,
+    "salaryP75": 23750,
+    "salaryMax": 27000,
+    "salaryAvg": 22083,
+    "currency": "EUR",
+    "salaryPeriod": "year",
+    "contractShares": {
+      "fixed-term": 0.63,
+      "permanent": 0.25,
+      "permanent-seasonal": 0.06,
+      "unspecified": 0.06
+    },
+    "experienceShares": {
+      "1-2 years": 0.75,
+      "3-4 years": 0.13,
+      "none": 0.13
+    },
+    "remoteShare": 0,
+    "topCompanies": [
+      "EULEN Flexiplán",
+      "IMAN TEMPORING ETT, S.L.",
+      "ANANDA GESTION ETT",
+      "Areajob Spain ETT",
+      "HOSPITALITY CONNECTION BARCELONA SL"
+    ],
+    "sampleUrls": [
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativoa-comercial-hm/madrid/3188156/",
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativoa-comercial-back-office-comercial/san-martin-de-la-vega/3119366/",
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativa-administrativo-excelentes-condiciones-laborales/getafe/3113589/",
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativoa-contable/pozuelo-de-alarcon/3208920/",
+      "https://www.infoempleo.com/ofertasdetrabajo/administrativo-contable/madrid/3208246/"
+    ],
+    "computedAt": "2026-11-18T04:15:15.577Z"
+  }
+]
